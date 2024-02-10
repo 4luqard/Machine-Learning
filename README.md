@@ -1,2 +1,2 @@
 # Regression-Models: Exploring the Fundamentals of Regression Models
-This repository is dedicated to exploring various regression models, providing a foundation for understanding and applying these essential statistical analysis tools in machine learning. From simple linear regression to more complex forms like logistic and polynomial regression, we aim to offer a comprehensive learning resource for beginners and intermediate learners alike.
+This repository is dedicated to exploring various regression models, providing a foundation for understanding and applying these essential statistical analysis tools in machine learning.
